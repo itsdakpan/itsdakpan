@@ -45,7 +45,9 @@ I love building websites that are fast, easy to use, and make people’s lives a
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge)
-
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white&style=for-the-badge)
+![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white&style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white&style=for-the-badge)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=dylan0593.dylan0593)
 
