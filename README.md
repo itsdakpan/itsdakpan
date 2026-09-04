@@ -25,7 +25,7 @@ I love building applications that are fast, easy to use, and make people’s liv
 
 📧 Email: [My Email](dakpan0593@gmail.com)
 
-🌍 Portfolio: [My Portfolio](https://dylan-akpan.vercel.app/)
+🌍 Portfolio: [My Portfolio]([https://dylan-akpan.vercel.app/](https://dylan-akpan.vercel.app/#top))
 
 💼 LinkedIn: [My Linkedin](https://www.linkedin.com/in/dylan-a-5683091a8/)
 
