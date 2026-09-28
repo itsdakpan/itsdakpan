@@ -1,20 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Dylan0593/dylan0593** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 I'm Dylan, a software developer with an engineering background and a genuine love for turning complex problems into code.
 
 🚀 __What I Do?__
@@ -23,9 +8,9 @@ I love building applications that are fast, easy to use, and make people’s liv
 
 📫 __Find Me Around the Web?__
 
-📧 Email: [My Email](dakpan0593@gmail.com)
+📧 Email: [dakpan0593@gmail.com](mailto:dakpan0593@gmail.com)
 
-🌍 Portfolio: [My Portfolio](https://dylan-akpan.vercel.app/#top)
+🌍 Portfolio: [dylan-akpan.vercel.app](https://dylan-akpan.vercel.app)
 
 💼 LinkedIn: [My Linkedin](https://www.linkedin.com/in/dylan-a-5683091a8/)
 
