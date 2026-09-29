@@ -8,9 +8,9 @@ I love building applications that are fast, easy to use, and make people’s liv
 
 📫 __Find Me Around the Web?__
 
-📧 Email: [Click me](mailto:dakpan0593@gmail.com)
+📧 Email: [Here](mailto:dakpan0593@gmail.com)
 
-🌍 Portfolio: [Click me](https://dylan-akpan.vercel.app)
+🌍 Portfolio: [Here](https://dylan-akpan.vercel.app)
 
 💼 LinkedIn: [My Linkedin](https://www.linkedin.com/in/dylan-a-5683091a8/)
 
