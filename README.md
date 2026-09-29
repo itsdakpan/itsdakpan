@@ -12,7 +12,7 @@ I love building applications that are fast, easy to use, and make people’s liv
 
 🌍 Portfolio: [Here](https://dylan-akpan.vercel.app)
 
-💼 LinkedIn: [My Linkedin](https://www.linkedin.com/in/dylan-a-5683091a8/)
+💼 LinkedIn: [Here](https://www.linkedin.com/in/dylan-a-5683091a8/)
 
 🧰 __Tech Stack?__
 
